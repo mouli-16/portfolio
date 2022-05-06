@@ -20,7 +20,9 @@ const About = () => {
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias numquam eveniet beatae mollitia officiis incidunt tempore ut, quis, eos laborum praesentium hic minima nulla aspernatur, magnam quod odit? Provident, exercitationem!
 
               </p>
+              <div className='about__content-link'>
               <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+              </div>
         </div>
       </div>
     </section>
