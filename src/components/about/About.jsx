@@ -18,7 +18,7 @@ const About = () => {
         <div className="about__content">
               <p>
                 I'm a pre-final year undergraduate from National Institute Of Technology, Durgapur.
-                A fullstack web-developer with an experience in frameworks like ReactJs, VueJs, NodeJs, Express and languages such as C/C++ and Js.
+                A fullstack web-developer with an experience in frameworks like ReactJs, VueJs, NodeJs, ExpressJs and languages such as C/C++ and Js.
 
               </p>
               <div className='about__content-link'>
