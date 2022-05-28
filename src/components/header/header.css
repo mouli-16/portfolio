@@ -32,18 +32,30 @@ header{
     height: 2rem;
     background: var(--color-primary);
 }
-
-.me{
+.me__bg{
     background: linear-gradient(var(--color-primary),transparent);
     width: 22rem;
+    height: 32rem;
+    position: absolute;
+    left: 49.2%;
+    transform: translateX(-50%);
+    margin-top: 3rem;
+    border-radius: 12rem 12rem 0 0;
+    overflow: hidden;
+    padding: 5rem 1.5rem 1.5rem 1.5rem;
+}
+.me{
+    display: flex;
+    justify-content: center;
+    width: 20rem;
     height: 30rem;
     position: absolute;
-    left: 50%;
+    left: 50.2%;
     transform: translateX(-50%);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    /* padding: 5rem 1.5rem 1.5rem 1.5rem; */
 }
 
 .scroll__down{

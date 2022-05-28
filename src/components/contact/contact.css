@@ -1,4 +1,16 @@
 .contact__container{
+    /* border: 2px solid red; */
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.contact__content{
+    /* border: 2px solid red; */
+    width: 58%;
+    margin: auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.contact__innercontainer{
    width: 58%;
    display: grid;
    grid-template-columns: 30% 50%;
@@ -62,7 +74,7 @@ input,textarea{
 /*  MEDIA QUERIES (MEDIUM DEVICES) */
 
 @media screen and (max-width: 1024px) {
-     .contact__container{
+     .contact__innercontainer{
          grid-template-columns: 1fr;
          gap: 2rem;
      }
@@ -71,7 +83,7 @@ input,textarea{
   /*  MEDIA QUERIES (SMALL DEVICES) */
 
 @media screen and (max-width: 600px) {
-    .contact__container{
+    .contact__innercontainer{
         width: var(--container-width-sm);
     }
   }

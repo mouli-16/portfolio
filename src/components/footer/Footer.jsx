@@ -16,10 +16,10 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="footer__socials">
-        <a href="https://www.instagram.com/__sui__generis_/"><FiInstagram/></a>
-        <a href="https://github.com/mouli-16"><FiGithub/></a>
-        <a href="https://www.linkedin.com/in/mouli-ghosh-10b6861bb/"><FiLinkedin/></a>
-        <a href="https://www.facebook.com/mouli.ghosh.7146557/"><FaFacebookF/></a>
+        <a href="https://www.instagram.com/__sui__generis_/" target="_blank"><FiInstagram/></a>
+        <a href="https://github.com/mouli-16" target="_blank"><FiGithub/></a>
+        <a href="https://www.linkedin.com/in/mouli-ghosh-10b6861bb/" target="_blank"><FiLinkedin/></a>
+        <a href="https://www.facebook.com/mouli.ghosh.7146557/" target="_blank"><FaFacebookF/></a>
       </div>
 
       <div className="footer__copyright">

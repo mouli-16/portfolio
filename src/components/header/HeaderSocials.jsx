@@ -6,9 +6,9 @@ import {MdEmail} from 'react-icons/md'
 const HeaderSocials = () => {
   return (
     <div className='header__socials'>
-      <a href= "" target="_blank"><BsLinkedin/></a>
-      <a href= "" target="_blank"><FaGithub/></a>
-      <a href= "" target="_blank"><MdEmail/></a>
+      <a href= "https://www.instagram.com/__sui__generis_/" target="_blank"><BsLinkedin/></a>
+      <a href= "https://github.com/mouli-16" target="_blank"><FaGithub/></a>
+      <a href= "mailto:mouli1216@gmail.com" target="_blank"><MdEmail/></a>
     </div>
   )
 }

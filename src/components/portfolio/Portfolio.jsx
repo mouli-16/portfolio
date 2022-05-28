@@ -1,54 +1,54 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG1 from '../../assets/Portfolio1.png'
+import IMG2 from '../../assets/Portfolio2.png'
+import IMG3 from '../../assets/Portfolio3.png'
+import IMG4 from '../../assets/Portfolio4.png'
+import IMG5 from '../../assets/Portfolio5.png'
+import IMG6 from '../../assets/Portfolio6.png'
 
 const data = [
   {
     id:1,
     image:IMG1,
-    title: 'Title of project',
-    github: 'https://github.com',
-    demo: 'link'
+    title: 'GLGU Audition Portal',
+    github: 'https://github.com/mouli-16/Audition_Webapp_UI.git',
+    demo: ''
   },
   {
     id:2,
     image:IMG2,
-    title: 'Title of project',
-    github: 'https://github.com',
-    demo: 'link'
+    title: 'SAYHI',
+    github: 'https://github.com/mouli-16/SayHi.git',
+    demo: ''
   },
   {
     id:3,
     image:IMG3,
-    title: 'Title of project',
-    github: 'https://github.com',
-    demo: 'link'
+    title: 'Sketchio',
+    github: 'https://github.com/mouli-16/sketchio.git',
+    demo: ''
   },
   {
     id:4,
     image:IMG4,
-    title: 'Title of project',
-    github: 'https://github.com',
-    demo: 'link'
+    title: 'NITMUN Admin Panel',
+    github: 'https://github.com/lcnitdgp/NITMUN22_backend.git',
+    demo: ''
   },
   {
     id:5,
     image:IMG5,
-    title: 'Title of project',
-    github: 'https://github.com',
-    demo: 'link'
+    title: 'Krpto',
+    github: 'https://github.com/mouli-16/krypto.git',
+    demo: ''
   },
   {
     id:6,
     image:IMG6,
-    title: 'Title of project',
-    github: 'https://github.com',
-    demo: 'link'
+    title: 'Akshaya Patra',
+    github: 'https://github.com/mouli-16/hackmoreish-project.git',
+    demo: ''
   }
 ]
 

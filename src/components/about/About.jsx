@@ -1,5 +1,5 @@
 import React from 'react'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/me7.jpg'
 import './about.css'
 
 const About = () => {
@@ -11,13 +11,14 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt="About Image" />
+            <img src={ME} alt="About Image" className='about__img'/>
           </div>
         </div>
 
         <div className="about__content">
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias numquam eveniet beatae mollitia officiis incidunt tempore ut, quis, eos laborum praesentium hic minima nulla aspernatur, magnam quod odit? Provident, exercitationem!
+                I'm a pre-final year undergraduate from National Institute Of Technology, Durgapur.
+                A fullstack web-developer with an experience in frameworks like ReactJs, VueJs, NodeJs, Express and languages such as C/C++ and Js.
 
               </p>
               <div className='about__content-link'>
