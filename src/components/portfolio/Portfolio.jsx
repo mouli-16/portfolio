@@ -5,7 +5,7 @@ import IMG2 from '../../assets/Portfolio2.png'
 import IMG3 from '../../assets/Portfolio3.png'
 import IMG4 from '../../assets/Portfolio4.png'
 import IMG5 from '../../assets/Portfolio5.png'
-import IMG6 from '../../assets/Portfolio6.png'
+import IMG6 from '../../assets/Portfolio7.png'
 
 const data = [
   {
@@ -39,15 +39,15 @@ const data = [
   {
     id:5,
     image:IMG5,
-    title: 'Krpto',
-    github: 'https://github.com/mouli-16/krypto.git',
+    title: 'SEA-GI LOCKER',
+    github: 'https://github.com/mouli-16/sixth-harmony.git',
     demo: ''
   },
   {
     id:6,
     image:IMG6,
-    title: 'Akshaya Patra',
-    github: 'https://github.com/mouli-16/hackmoreish-project.git',
+    title: 'Optimum Wellness Portal',
+    github: 'https://github.com/mouli-16/optimum_wellness_backend.git',
     demo: ''
   }
 ]
