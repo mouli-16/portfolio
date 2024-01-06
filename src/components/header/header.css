@@ -35,7 +35,7 @@ header{
 .me__bg{
     background: linear-gradient(var(--color-primary),transparent);
     width: 22rem;
-    height: 32rem;
+    height: 26rem;
     position: absolute;
     left: 49.2%;
     transform: translateX(-50%);

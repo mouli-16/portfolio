@@ -1,6 +1,6 @@
 import React from 'react'
 import BTN from './buttons'
-import ME from '../../assets/m6.jpeg'
+import ME from '../../assets/pics3.jpg'
 import HeaderSocials from './HeaderSocials'
 import './header.css'
 
