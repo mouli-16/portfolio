@@ -11,7 +11,7 @@ const data = [
   {
     id:1,
     image:IMG1,
-    title: 'GLGU Audition Portal',
+    title: 'GLUG Audition Portal',
     github: 'https://github.com/mouli-16/Audition_Webapp_UI.git',
     demo: ''
   },
